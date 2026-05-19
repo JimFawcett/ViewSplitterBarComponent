@@ -1,0 +1,5 @@
+/* host-page placement helpers for <view-splitter-bar> */
+view-splitter-bar {
+  display: inline-block;
+  margin: 0.5rem;
+}
