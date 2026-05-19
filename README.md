@@ -34,6 +34,8 @@ The containing page should define `--light` and `--dark` CSS custom properties:
 
 ## Usage
 
+<img src="pictures/ViewSplitterBarComponent.png" width="500" />
+
 ### Plain text
 
 ```html
